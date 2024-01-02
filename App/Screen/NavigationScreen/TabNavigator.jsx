@@ -3,7 +3,7 @@ import { createBottomTabNavigator } from '@react-navigation/bottom-tabs';
 import MaterialCommunityIcons from 'react-native-vector-icons/MaterialCommunityIcons';
 import HomeScreen from '../HomeScreen/HomeScreen';
 import ProfileScreen from '../ProfileScreen/ProfileScreen';
-
+// its changes
 const Tab = createBottomTabNavigator();
 
 export class TabNavigator extends Component {
